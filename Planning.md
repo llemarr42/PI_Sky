@@ -30,7 +30,7 @@ The balloon should be able to carry the weight of said payload and be able to ri
 * Long flight time means more time to collect data (as opposed to a rocket or the like)
 
 ### cons
-How are we getting helium?
+* How are we getting helium?
 
 ### other things to consider
 * We have to have a very reliable system of descent, otherwise we will lose the Pi
