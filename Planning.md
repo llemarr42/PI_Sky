@@ -89,5 +89,3 @@ Graph the path of its flight
 * Needs to be very compact and self-contained
 * Would reach lesser altitudes compared to other projects
 * The need for it being self-contained could cause complications in the landing process
-
--
