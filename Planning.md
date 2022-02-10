@@ -65,8 +65,7 @@ The motor that controls the blade needs to have enough lifting force to be able 
 * If we choose this we will risk not being able to complete the project by the due date
 * We will only have one attempt for printing and stuff as it will be too big to reprint it or change things after the fact (wood will lessen this problem)
  
-## slingshot launch, fancy landing
-
+## Slingshot Launch
 ### requirements / description
 
 Use one of the slingshots used for the eggdrop project to launch a pi, which could:
