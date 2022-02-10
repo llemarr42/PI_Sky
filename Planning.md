@@ -1,5 +1,7 @@
+# Table of Contents
+* [Initial Ideas](#Options_for_Project)
 
-# Options for project:
+# Options_for_Project
 
 ## Balloon
 
