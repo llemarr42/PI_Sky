@@ -1,5 +1,10 @@
 # Table of Contents
 * [Initial Ideas](#Options_for_Project)
+* [Final Idea Description]
+* [Schedule]
+* [Code]
+* [Bill of Materials]
+* [Risk Mitigation]
 
 # Options_for_Project
 
