@@ -98,6 +98,15 @@ Graph the path of its flight
 
 
 # Final_Idea_Description
+![Balloon Sketch](https://user-images.githubusercontent.com/56133021/153914634-e4c85cc6-e7c0-4b35-9668-a57851be1035.jpg)
+
+The payload will be carried by one or more helium-filled balloons. After a certain amount of time, a valve on one of the balloons will open, allowing helium to escape, causing the balloon to gradually fall back to the ground. 
+
+![Payload Sketch](https://user-images.githubusercontent.com/56133021/153914636-ff04dcfc-bae6-472b-84f4-7edfaefea691.jpg)
+
+The payload will consist of a Raspberry Pi, Raspberry Pi camera, temperature and humidity sensor, servo, battery, and an on/off switch. The payload will be contained by a thin 3D printed casing and attached to the balloon(s) with light netting. During its flight, the Pi will take photos of the ground, record the temperature and humidity, and control the helium levels. The valve will work in one of several ways, but will be controled by a servo (ideas sketched below).
+
+![Valve Ideas](https://user-images.githubusercontent.com/56133021/153914632-c87b205c-47ad-4936-98ec-13a5f4c2b97d.jpg)
 
 # Schedule
 
