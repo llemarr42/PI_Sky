@@ -114,6 +114,22 @@ The payload will consist of a Raspberry Pi, Raspberry Pi camera, temperature and
 
 # Bill_of_Materials
 
+per one run:
+* Latex balloon(s)
+* ~ 3 cubic feet of helium (max)
+* Light netting
+* Raspberry Pi zero
+* Battery 
+* PowerBoost 500C
+* Pi Camera
+* Continuous rotation servo
+* Temperature/humidity sensor
+* Small switch
+* 3D printed casing
+* Valve to control airflow
+
+We wll need to refill the helium each run.
+
 # Risk_Mitigation
 
 
