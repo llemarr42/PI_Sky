@@ -132,4 +132,5 @@ We wll need to refill the helium each run.
 
 # Risk_Mitigation
 
+ We will release the balloon in an area with little trees or power lines to mitigate the risk of entanglement. We will test the release mechanism by blowing up the balloons by hand instead of helium. We will test how fast the balloon ascends by tying a string to the balloon and releasing it, and measuring how fast the string is pulled. Because we are limited by weight, there is little we can do in terms of padding to prevent damage if the balloon somehow pops.
 
