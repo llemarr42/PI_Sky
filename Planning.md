@@ -109,6 +109,10 @@ The payload will consist of a Raspberry Pi, Raspberry Pi camera, temperature and
 ![Valve Ideas](https://user-images.githubusercontent.com/56133021/153914632-c87b205c-47ad-4936-98ec-13a5f4c2b97d.jpg)
 
 # Schedule
+* 2/21/2020 through 3/11/2022: Design the valve
+* 3/14/2022 through 3/25/2022: Design the capsule
+* 3/28/2022 through 4/1/2022: Write the code
+* 4/4/2022 through 4/22/2022: Test and revise
 
 # Code
 
