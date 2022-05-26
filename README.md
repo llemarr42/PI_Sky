@@ -24,6 +24,9 @@ Pi in the sky project
 ## Commented code
 
 ## Description of the planning that went into the project, design decisions, and engineering details
+Our biggest initial decision was how to design the valve which controls the flow of helium out of the balloon. The valve had to balance being light, fairly simple, easy to control, and reliable. It also had to be able to open AND close. We came up with many designs and after creating three of them in CAD, we decided to go with a plug design which would be pulled down by a string and held in place by some sort of elastic or spring force. 
+
+We also needed to design a payload container which was easy to attach the balloon to but was sturdy enough to survive impact. This meant balancing the ease of opening and closing the container. We considered screws as a very reliable option, but because they take some time to put in and take out, they were not suitable for the frequency that the container had to be opened. The design we eventually settled on were 3D printed tabs on the roof of the container which would slide into holes on the body and hold the container shut. When we initially printed them, they were too small and so they easily broke off, but we redesigned them to be bigger in CAD and now they are working well.
 
 ## Your process or a schedule of how you spent your time
 
