@@ -6,6 +6,13 @@ Pi in the sky project
 
 ## CAD renderings
 
+![balloon_](https://user-images.githubusercontent.com/56924009/170523565-3ef0e493-e78c-496f-a66d-b75c106110d2.PNG)
+
+
+
+![Balloon_2](https://user-images.githubusercontent.com/56924009/170523578-ca875852-1ccd-46a9-8b20-873b643e6d54.PNG)
+
+
 ## Actual photos and/or video (well lit and in focus)
 
 ## A diagram of your circuit
