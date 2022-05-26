@@ -3,16 +3,14 @@ Pi in the sky project
 .
 
 ## Materials used
-
+Because the goal of this project was to lift a payload into the sky, we had to aim to keep our payload as light as possible. A light payload minimizes the amount of work our desgin has to do to overcome gravity. Therefore, we were conscientious about materials we used and what we were adding to our payload. We made our payload container out of 3D printed material as opposed to acrylic because the 3D printed filament is lighter than acrylic and having a more customizable box can lower the amount of material needed in thickness and shape.
 ## CAD renderings
 
-![balloon_](https://user-images.githubusercontent.com/56924009/170523966-5f947796-b087-4268-bb39-d09f454969da.PNG)
+![balloon_](https://user-images.githubusercontent.com/56924009/170523565-3ef0e493-e78c-496f-a66d-b75c106110d2.PNG)
 
 
 
-
-
-![Balloon_2](https://user-images.githubusercontent.com/56924009/170523982-3d9e8043-6101-4f8d-a412-942f798ea53d.PNG)
+![Balloon_2](https://user-images.githubusercontent.com/56924009/170523578-ca875852-1ccd-46a9-8b20-873b643e6d54.PNG)
 
 
 ## Actual photos and/or video (well lit and in focus)
