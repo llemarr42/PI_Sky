@@ -6,11 +6,13 @@ Pi in the sky project
 
 ## CAD renderings
 
-![balloon_](https://user-images.githubusercontent.com/56924009/170523565-3ef0e493-e78c-496f-a66d-b75c106110d2.PNG)
+![balloon_](https://user-images.githubusercontent.com/56924009/170523966-5f947796-b087-4268-bb39-d09f454969da.PNG)
 
 
 
-![Balloon_2](https://user-images.githubusercontent.com/56924009/170523578-ca875852-1ccd-46a9-8b20-873b643e6d54.PNG)
+
+
+![Balloon_2](https://user-images.githubusercontent.com/56924009/170523982-3d9e8043-6101-4f8d-a412-942f798ea53d.PNG)
 
 
 ## Actual photos and/or video (well lit and in focus)
