@@ -3,7 +3,6 @@ Pi in the sky project
 .
 
 ## Materials used
-Because the goal of this project was to lift a payload into the sky, we had to aim to keep our payload as light as possible. A light payload minimizes the amount of work our design has to do to overcome gravity. Therefore, we were conscientious about materials we used and what we were adding to our payload. We made our payload container out of 3D printed material as opposed to acrylic because the 3D printed filament is lighter than acrylic and having a more customizable box can lower the amount of material needed in its thickness and shape. Our payload container holds all of our necessary electronics: the Raspberry Pi, battery, Pi camera, servo, accelerometer, on/off switch, and wiring. It also houses a 3D printed spool and string as well as a 3D printed plug. To lift the payload, we are using a large latex balloon and helium. 
 
 ## CAD renderings
 
@@ -25,15 +24,13 @@ Because the goal of this project was to lift a payload into the sky, we had to a
 ## Commented code
 
 ## Description of the planning that went into the project, design decisions, and engineering details
-Our biggest initial decision was how to design the valve which controls the flow of helium out of the balloon. The valve had to balance being light, fairly simple, easy to control, and reliable. It also had to be able to open AND close. We came up with many designs and after creating three of them in CAD, we decided to go with a plug design which would be pulled down by a string and held in place by some sort of elastic or spring force. 
-
-We also needed to design a payload container which was easy to attach the balloon to but was sturdy enough to survive impact. This meant balancing the ease of opening and closing the container. We considered screws as a very reliable option, but because they take some time to put in and take out, they were not suitable for the frequency that the container had to be opened. The design we eventually settled on were 3D printed tabs on the roof of the container which would slide into holes on the body and hold the container shut. When we initially printed them, they were too small and so they easily broke off, but we redesigned them to be bigger in CAD and now they are working well.
 
 ## Your process or a schedule of how you spent your time
 
 
-* 2/21/2020 through 3/11/2022: Design the valve: We created and discarded multiple different disigns of valvles in order to find something that fufills all of our needs. This was one of the harder and more time consuming. 
-* 3/14/2022 through 3/25/2022: Design the capsule
+* 2/21/2020 through 3/11/2022: Design the valve: We created and discarded multiple different disigns of valvles in order to find something that fufills all of our needs. This was one of the harder and more time consuming sections even for how simple it seems. The valve is the fulcrom of our project as it is the main peice for controling the assent and dessent of the whole project. It was made much harder by the fact that all the designs we saw online were not what we needed or simply way too heavy, so we had to create our own design using the tools that we had.  
+
+* 3/14/2022 through 3/25/2022: Design the capsule: This portion of our project involved almost all of the CAD work that we needed to do. Our goal was to make a box that would hold all of our electronics and other peices and make sure that it or anything in it would not break. We needed to not only do this but 
 * 3/28/2022 through 4/1/2022: Write the code
 * 4/4/2022 through 4/22/2022: Test and revise
 
