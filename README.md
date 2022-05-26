@@ -30,9 +30,9 @@ Because the goal of this project was to lift a payload into the sky, we had to a
 
 
 * 2/21/2020 through 3/11/2022: Design the valve: We created and discarded multiple different disigns of valvles in order to find something that fufills all of our needs. This was one of the harder and more time consuming. 
-* 3/14/2022 through 3/25/2022: Design the capsule
-* 3/28/2022 through 4/1/2022: Write the code
-* 4/4/2022 through 4/22/2022: Test and revise
+* 3/14/2022 through 3/25/2022: We worked on the design of the capsule. Optimize material use and spacing, allow for wiring, even out weight distribution
+* 3/28/2022 through 4/1/2022: We wrote the code. We implemented failsafes in case an instrument fails and it is unable to gather appropriate data.
+* 4/4/2022 through 4/22/2022: Test, revise, and optimize.
 
 ## Discussion of problems, errors, miscalculations, and missteps and how you overcame them
 
