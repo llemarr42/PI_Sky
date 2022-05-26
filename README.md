@@ -3,6 +3,7 @@ Pi in the sky project
 .
 
 ## Materials used
+Because the goal of this project was to lift a payload into the sky, we had to aim to keep our payload as light as possible. A light payload minimizes the amount of work our design has to do to overcome gravity. Therefore, we were conscientious about materials we used and what we were adding to our payload. We made our payload container out of 3D printed material as opposed to acrylic because the 3D printed filament is lighter than acrylic and having a more customizable box can lower the amount of material needed in its thickness and shape. Our payload container holds all of our necessary electronics: the Raspberry Pi, battery, Pi camera, servo, accelerometer, on/off switch, and wiring. It also houses a 3D printed spool and string as well as a 3D printed plug. To lift the payload, we are using a large latex balloon and helium. 
 
 ## CAD renderings
 
