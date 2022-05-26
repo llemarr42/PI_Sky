@@ -19,6 +19,8 @@ Pi in the sky project
 
 ## A diagram of your circuit
 
+![Circuit](https://user-images.githubusercontent.com/60944294/170525997-beada2d2-2537-4bdd-9b0a-c7a35084f0e8.PNG)
+
 ## Commented code
 
 ## Description of the planning that went into the project, design decisions, and engineering details
