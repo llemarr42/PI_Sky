@@ -4,6 +4,24 @@ Pi in the sky project
 
 ## Materials used
 
+per one run:
+
+* Latex balloon(s)
+* ~ 3 cubic feet of helium (max)
+* Raspberry Pi zero
+* Battery
+* PowerBoost 500C
+* Pi Camera
+* 180 degree servo
+* Temperature/humidity sensor
+* Small switch
+* small button
+* 3D printed casing
+* Valve to control airflow
+* accelerometer
+
+We wll need to refill the helium each run.
+
 ## CAD renderings
 
 ![balloon_](https://user-images.githubusercontent.com/56924009/170523966-5f947796-b087-4268-bb39-d09f454969da.PNG)
