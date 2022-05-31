@@ -22,6 +22,39 @@ Pi in the sky project
 ![Circuit](https://user-images.githubusercontent.com/60944294/170525997-beada2d2-2537-4bdd-9b0a-c7a35084f0e8.PNG)
 
 ## Commented code
+```python
+import time
+import adafruit_mpl3115a2
+import board
+from gpiozero import Servo, Button
+import os
+import picamera
+
+
+sensor = adafruit_mpl3115a2.MPL3115A2(i2c, address=0x60) 
+sensor.sealevel_pressure = 102250
+i2c = board.I2C()
+servo = Servo(18) # servo pin is 18
+directory = "../pictures" # will save photos in the picture folder
+initialTime = time.time() # gets the time at which it launches
+camera = picamera.PiCamera()
+camera.resolution = (1024, 768)
+camera.start_preview()
+
+servo.max # makes sure that the servo is in place
+altitudeRec[] 
+tempratureRec[]
+pressureRec[]
+while True: 
+  altitudeRec.append(sensor.altitude)
+  tempratureRec.append(sensor.temprature)
+  pressureRec.append(sensor.pressure) # records data into lists to be 
+  if altitudeRec[-1] >= altitudeRec[0] + 20 or time.time() >= initialTime + 120: # defines the maximum altitude, and deflates the variable balloon once it reaches it.
+    camera.capture('../pictures/image + '.jpg')
+    servo.min
+```
+    
+  
 
 ## Description of the planning that went into the project, design decisions, and engineering details
 Our biggest initial decision was how to design the valve which controls the flow of helium out of the balloon. The valve had to balance being light, fairly simple, easy to control, and reliable. It also had to be able to open AND close. We came up with many designs and after creating three of them in CAD, we decided to go with a plug design which would be pulled down by a string and held in place by some sort of elastic or spring force. 
