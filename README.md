@@ -66,11 +66,11 @@ We also needed to design a payload container which was easy to attach the balloo
 ## Your process or a schedule of how you spent your time
 
 
-* 2/21/2020 through 3/11/2022: Design the valve: We created and discarded multiple different disigns of valvles in order to find something that fufills all of our needs. This was one of the harder and more time consuming sections even for how simple it seems. The valve is the fulcrom of our project as it is the main peice for controling the assent and dessent of the whole project. It was made much harder by the fact that all the designs we saw online were not what we needed or simply way too heavy, so we had to create our own design using the tools that we had.  
+* _________ through _________: Design the valve: We created and discarded multiple different disigns of valvles in order to find something that fufills all of our needs. This was one of the harder and more time consuming sections even for how simple it seems. The valve is the fulcrom of our project as it is the main peice for controling the assent and dessent of the whole project. It was made much harder by the fact that all the designs we saw online were not what we needed or simply way too heavy, so we had to create our own design using the tools that we had.  
 
-* 3/14/2022 through 3/25/2022: Design the capsule: This portion of our project involved almost all of the CAD work that we needed to do. Our goal was to make a box that would hold all of our electronics and other peices and make sure that it or anything in it would not break. We needed to not only do this but 
-* 3/28/2022 through 4/1/2022: Write the code
-* 4/4/2022 through 4/22/2022: Test and revise
+* _________ through _________: Design the capsule: This portion of our project involved almost all of the CAD work that we needed to do. Our goal was to make a box that would hold all of our electronics and other peices and make sure that it or anything in it would not break. We needed to not only do this but 
+* _________ through _________: Write the code
+* _________ through _________: Test and revise
 
 ## Discussion of problems, errors, miscalculations, and missteps and how you overcame them
 
