@@ -70,7 +70,7 @@ We also needed to design a payload container which was easy to attach the balloo
 
 * _________ through _________: Design the capsule: This portion of our project involved the majority of the CAD work that we needed to do. Our goal was to make a box that would hold all of our electronics and other peices and make sure that it or anything in it would not break. We needed to not only do this but it needed to the absolute lightest as we could possibly make it. This is because of our small weight limit due to the low lifting power of the balloons.
 
-* _________ through _________: Write the code: 
+* _________ through _________: Write the code: I had some issues figuring out the best way to control the release of air. I made the decision to make it a 180 degree servo instead of a continuous servo because we needed the ability to set the position of the valve to precise values, which a continuous servo would not allow. Additionally, discovering how to measure time in a value of seconds since an epoch was mildly difficult, but by reading through the time library documentation I was able to power through.
 * _________ through _________: Test and revise: While we were constantly revising and changing different parts, this section refers to 
 
 ## Discussion of problems, errors, miscalculations, and missteps and how you overcame them
