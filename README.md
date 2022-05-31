@@ -29,7 +29,6 @@ Pi in the sky project
 ![Balloon_2](https://user-images.githubusercontent.com/56924009/170523982-3d9e8043-6101-4f8d-a412-942f798ea53d.PNG)
 
 
-## Actual photos and/or video (well lit and in focus)
 
 ## A diagram of your circuit
 
@@ -80,12 +79,12 @@ We also needed to design a payload container which was easy to attach the balloo
 ## Your process or a schedule of how you spent your time
 
 
-* _________ through _________: Design the valve: We created and discarded multiple different disigns of valvles in order to find something that fufills all of our needs. This was one of the harder and more time consuming sections even for how simple it seems. The valve is the fulcrom of our project as it is the main peice for controling the assent and dessent of the whole project. It was made much harder by the fact that all the designs we saw online were not what we needed or simply way too heavy, so we had to create our own design using the tools that we had.  
+* Febuary 13 through March 2: Design the valve: We created and discarded multiple different disigns of valvles in order to find something that fufills all of our needs. This was one of the harder and more time consuming sections even for how simple it seems. The valve is the fulcrom of our project as it is the main peice for controling the assent and dessent of the whole project. It was made much harder by the fact that all the designs we saw online were not what we needed or simply way too heavy, so we had to create our own design using the tools that we had.  
 
-* _________ through _________: Design the capsule: This portion of our project involved the majority of the CAD work that we needed to do. Our goal was to make a box that would hold all of our electronics and other peices and make sure that it or anything in it would not break. We needed to not only do this but it needed to the absolute lightest as we could possibly make it. This is because of our small weight limit due to the low lifting power of the balloons.
+* March 4 through May 10: Design the capsule: This portion of our project involved the majority of the CAD work that we needed to do. Our goal was to make a box that would hold all of our electronics and other peices and make sure that it or anything in it would not break. We needed to not only do this but it needed to the absolute lightest as we could possibly make it. This is because of our small weight limit due to the low lifting power of the balloons.
 
-* _________ through _________: Write the code: I had some issues figuring out the best way to control the release of air. I made the decision to make it a 180 degree servo instead of a continuous servo because we needed the ability to set the position of the valve to precise values, which a continuous servo would not allow. Additionally, discovering how to measure time in a value of seconds since an epoch was mildly difficult, but by reading through the time library documentation I was able to power through.
-* _________ through _________: Test and revise: While we were constantly revising and changing different parts throughout the whole project, this section refers specifically to testing and revisions after everything was printed. We found errors and mistakes that we did not forsee as we made the parts. We the remade or redisigned the parts. One thing that we had to change for a lot of the parts is their thickness because many pieces would snap off or bend.
+* March 16 through May 30: Write the code: I had some issues figuring out the best way to control the release of air. I made the decision to make it a 180 degree servo instead of a continuous servo because we needed the ability to set the position of the valve to precise values, which a continuous servo would not allow. Additionally, discovering how to measure time in a value of seconds since an epoch was mildly difficult, but by reading through the time library documentation I was able to power through.
+* May 12 through May 31: Test and revise: While we were constantly revising and changing different parts throughout the whole project, this section refers specifically to testing and revisions after everything was printed. We found errors and mistakes that we did not forsee as we made the parts. We the remade or redisigned the parts. One thing that we had to change for a lot of the parts is their thickness because many pieces would snap off or bend.
 
 ## Discussion of problems, errors, miscalculations, and missteps and how you overcame them
 
